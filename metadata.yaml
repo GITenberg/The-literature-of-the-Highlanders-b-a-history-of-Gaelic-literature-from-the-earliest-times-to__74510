@@ -1,11 +1,16 @@
 _repo: The-literature-of-the-Highlanders-b-a-history-of-Gaelic-literature-from-the-earliest-times-to__74510
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74510-h/images/cover-orig.jpg
 creator:
   author:
     agent_name: MacNeill, Nigel
     gutenberg_agent_id: '57532'
     url: http://www.gutenberg.org/2009/agents/57532
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74510#The-literature-of-the-Highlanders-b-a-history-of-Gaelic-literature-from-the-earliest-times-to_
 gutenberg_issued: '2024-10-03'
 gutenberg_type: Text
 identifiers:
